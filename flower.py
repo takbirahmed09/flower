@@ -1,3 +1,5 @@
+import cv2
+import numpy as np
 
 # ছবি লোড করা (আপনার ছবির ফাইলের নাম অনুযায়ী পরিবর্তন করুন)
 image = cv2.imread('flower_image.jpg')
